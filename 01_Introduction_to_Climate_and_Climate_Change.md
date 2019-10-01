@@ -1,57 +1,11 @@
-# Climate Change: The Science and Global Impact
-
-Course site: https://courses.edx.org/courses/course-v1:SDGAcademyX+CCSI001+3T2019/course/ provided by [SDG Academy](https://sdgacademy.org/).
-
-## Overview 
-
-In this course, you will explore the science behind **anthropogenic climate change** with climate expert, [Michael Mann](https://en.wikipedia.org/wiki/Michael_E._Mann). By joining this course, you are becoming part of a global movement to act on climate change.
-
-> The **first step toward any action** is **knowledge** and **understanding**.
-
-By the end of the course, you will come away with a solid understanding of how the climate system works, why anthropogenic climate change is occurring, and the impact it has on human and planetary systems.
-
-## About This Course
-
-Climate change is arguably the greatest challenge of our time. Human activity has already warmed the planet by one degree Celsius relative to pre-industrial times, and we are feeling the effects through record heat waves, droughts, wildfires and flooding. If we continue to burn fossil fuels at the current rate, the planet will reach two degrees of warming by 2050 - the threshold that many scientists have identified as a dangerous tipping point. What is the science behind these projections? 
-
-Join climate scientist expert Michael Mann to learn about the basic scientific principles behind climate change and global warming. We need to understand the science in order to solve the broader environmental, societal and economic changes that climate change is bringing. 
-
-
-## Course Learning Objectives
-
-By the end of this course, you will:
-
-* Develop a deep scientific understanding of HOW the climate system has been changing;
-* Articulate WHY the climate system is changing;
-* Understand the nature of these changes;
-* Develop a systems thinking approach to analyzing the impacts of climate change on both natural and human systems.
-
-The course covers the basic principles of atmospheric science, methods of climate data collection and tracking of greenhouse gas emissions. It introduces basic climate modeling and explores the impact of various greenhouse gas emissions scenarios. Finally, it outlines the impacts of climate change on environmental, social, economic and human systems, from coral reefs and sea level rise to urban infrastructure. The course follows the general outline of the 5th Assessement Report of the United Nations Intergovernmental Panel on Climate Change.
-
-What You Will Learn
-
-* Principles of atmospheric science
-* Climate data collection and interpretation (How data is collected and analyzed?)
-* How to use basic computations and models to address future climate change?
-    * Zero-dimensional Energy Balance Models 
-    * One-dimensional Energy Balanced Models
-    * General Circulation Models
-* Future greenhouse gas emissions scenarios and projections
-    * Carbon emissions scenarios
-    * Future climate change projections
-* Impacts of climate change on social, cultural, economic, urban and other human systems
-    * Impacts on human systems
-    * Emissions reduction pathways
-
-
-## 1.0 Introduction to Climate and Climate Change (course intro)
+# 1.0 Introduction to Climate and Climate Change (course intro)
 
 - [video](https://courses.edx.org/courses/course-v1:SDGAcademyX+CCSI001+3T2019/courseware/5d206629b3e342ce8bbd943126e65c0f/0241d06be83e44c59fbec81416ad5766/?child=first)
 
 
 The structure this course roughly parallels information collected in the reports of the [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/) (or **IPCC**, in French, Groupe d'experts intergouvernemental sur l'évolution du climat or **GIEC**)
 
-### 1.1 What is climate change?
+## 1.1 What is climate change?
 
 The idea of climate change, highlighting the difference between weather and climate, and the history of natural climate change versus man-made climate change.
 
@@ -61,7 +15,7 @@ The idea of climate change, highlighting the difference between weather and clim
 - Climate is always changing, but at the speed it is changing today
 - - Dinausor's age really warm due to volcanc eruption. They can cool the cilamte for a few years only by hiding the sun with ther smoke, but over ten's/million's of years, their CO2 emission will warm up the planet, while today, the fast climate change is due to human activity.
 
-### 1.2 Why should we care about climate change?
+## 1.2 Why should we care about climate change?
 
 [video](https://courses.edx.org/courses/course-v1:SDGAcademyX+CCSI001+3T2019/courseware/5d206629b3e342ce8bbd943126e65c0f/0241d06be83e44c59fbec81416ad5766/?child=first)
 
@@ -83,7 +37,7 @@ Adaptation to climate change is possible when it occurs slowly, but the current 
 
 The Paris agreement is just a starting point. In subsequent international conferences the countries of the world will need to agree to make more stringent reductions in their carbon emissions, if we are to rise to this challenge and avert catastrophic climate change.
 
-### 1.3 Overview of the climate system: How is the climate system constructed?
+## 1.3 Overview of the climate system: How is the climate system constructed?
 
 It discusses the four major components of the climate system, focusing on the structure and composition of the atmosphere. It then goes on to explain the different types of greenhouse gases and the greenhouse effect.
 
@@ -109,17 +63,17 @@ About 99% of the atmosphere is made up of nitrogen and oxygen, and **only 1% acc
 
 The **greenhouse effect** and **how an actual greenhouse works**: an actual greenhouse blocks wind currents that would help take away the heating caused by the sunlight that's coming through the glass of the greenhouse. In the atmosphere what's happening is that the Sun is warming the planet, the planet is trying to cool off by sending heat energy out to space, but the greenhouse gases intercept some of that heat energy and some of it they allowed to escape out to space, but some of it they actually send back down towards the surface of the earth. That means that the earth has to produce even more of that outgoing heat energy to cool off enough to balance the heating of the Sun. And that causes the temperature of Earth's surface to rise. That's the greenhouse effect.
 
-### 1.4 Overview of the climate system: How do energy balances work?
+## 1.4 Overview of the climate system: How do energy balances work?
 
 It introduces the concept of energy balances in the climate system. It compares infrared radiation to ultraviolet radiation in the context of energy balances as well as going into the process of how radiation enters and leaves the Earth's atmosphere.  
 
 [video](https://courses.edx.org/courses/course-v1:SDGAcademyX+CCSI001+3T2019/courseware/5d206629b3e342ce8bbd943126e65c0f/0241d06be83e44c59fbec81416ad5766/?child=first)
 
-#### Shotwave & longwave radiations
+### Shotwave & longwave radiations
 
 We've got this **shortwave solar radiation from the Sun** that's heating the surface of the earth and to come into balance **the earth is trying to send off this long wave infrared radiation out to space**. 
 
-#### Energy balance
+### Energy balance
 
 <img src="./climate_images/Screen_Shot_2019-06-18_at_2.20.21_PM.png"
      alt="Screen_Shot_2019-06-18_at_2.20.21_PM.png"
@@ -144,7 +98,7 @@ Those 100 units of energy being sent back into space include:
 Our climate model will use this simple model to understand what temperature need to be in order to balance this incoming energy from/into space.
 
 
-#### **Surplus of radiation at the Equator & deficit of radiation at the poles**
+### **Surplus of radiation at the Equator & deficit of radiation at the poles**
 
 Now near the poles, where we have large ice sheets, or sea ice, a larger amount of that downward solar energy is going to be reflected directly by Earth's surface. So that component varies with latitude. Now near the equator, temperatures are considerably warmer than they are near the pole, that means that the earth is going to be sending out more of that long wave heat energy from the equator than it is going to be sending out near the poles. That's the red curve. And then the orange curve shows us that of course there's more sunlight, more of that incoming shortwave radiation at the equator, and less of it near the poles. So as you can see in this figure here, more that long-wave radiation is emitted from the warm tropical regions then in the cold polar regions, so there's a disparity here. The outgoing radiation actually exceeds the incoming radiation near the poles. There's a deficit of radiation. Conversely, near the equator, there is more incoming radiation than there is outgoing long-wave radiation. So you might ask if there's a surplus near the equator, a surplus of radiation, why doesn't the equator continue to warm up? If there's a deficit of radiation at the poles, why don't they continue to cool down?
 
@@ -154,7 +108,7 @@ doesn't the equator continue to warm up? If there's a deficit of radiation at th
 
 Well it turns out that's because the climate system, **the ocean and the atmosphere in particular, act in a way to transport heat from low latitudes, where there's a surplus, to higher latitudes, where there's a deficit**. So in fact a key role of ocean and air currents is to relieve this instability of a surplus of radiation near the equator and a deficit of radiation near the poles.
 
-#### Incoming radiation changes in time
+### Incoming radiation changes in time
 
 incoming radiation varies in time as well, based on the time of day
 and the time of season, and this distribution is influenced by Earth's
@@ -163,13 +117,13 @@ daily rotation about its axis, and Earth's annual orbit around the Sun.
 The amount of shortwave radiation received from the Sun at the top of Earth's atmosphere varies as a function of both the time of day and the season.
 
 
-### 1.5 Overview of the climate system: Global circulation systems
+## 1.5 Overview of the climate system: Global circulation systems
 
 [video](https://courses.edx.org/courses/course-v1:SDGAcademyX+CCSI001+3T2019/courseware/5d206629b3e342ce8bbd943126e65c0f/0241d06be83e44c59fbec81416ad5766/?child=first)
 
 It looks at global circulation systems, focusing on wind patterns and then on ocean patterns. It puts an emphasis on the interconnected relationship between these patterns.
 
-#### Atmospheric motion & convective instability
+### Atmospheric motion & convective instability
 
 
 **Atmospheric circulation** is a key mechanism that helps balance the distribution of solar radiation across Earth's surface. It moves the heat from the equator toward the poles. Now a key part of this mechanism involves rising **atmospheric motion**. The heating from the Sun migrates north and south within the tropics over the course of the year, and so does the tendency for rising atmospheric motion as the surface of Earth is heated in different locations.
@@ -205,7 +159,7 @@ This is a highly idealized depiction of the atmospheric circulation, it represen
 In real time these motions are associated with storm systems and convective thunderstorms in the tropics dynamical properties of the atmosphere. **All of which help Earth's climate system solve this problem of relieving the unstable situation of an equator which is heated and a polar region that is cooled**. The atmosphere is trying to transport that excess of heat from the equator towards the pole, and it does that in the form of these **atmospheric circulations**.
 
 
-#### Westerly winds from Geostrophic balance: Pressure gradient force & Coriolis force
+### Westerly winds from Geostrophic balance: Pressure gradient force & Coriolis force
 
 So wind patterns also transport heat poleward, the lateral wind patterns are primarily governed by what's known as the pressure gradient force and the Coriolis force, an effective force that exists due to the fact that the earth is itself rotating. This balance between the pressure gradient force and the Coriolis force is known as geostrophic balance.
 
@@ -227,7 +181,7 @@ The westerly winds become stronger aloft, leading to the intense regions of high
      alt="winds.png"
      style="float: left; margin-right: 10px;" />
 
-#### Circulations in oceans
+### Circulations in oceans
 
 Oceans also play a key role in relieving the radiation imbalance by transporting heat from low to high latitudes. The first type of ocean circulation is the **horizontal circulation**, the **wind-driven ocean gyres**. Now the major surface currents are associated with the ocean gyres, the warm poleward western boundary currents, such as:
 - **the Gulf Stream** which is associated with the North Atlantic Ocean gyre, and - - the **Kuroshio current** associated with the North Pacific Ocean gyre. 
@@ -253,7 +207,7 @@ The thermohaline circulation system in the oceans transports heat energy from th
 - Rising motion in the southern Indian and Pacific Oceans
 - Sinking motion in the north Atlantic Ocean
 
-#### El Niño Southern Oscillation or ENSO
+### El Niño Southern Oscillation or ENSO
 
 Just as the atmosphere exhibits natural internal variability that we call weather, the climate system itself exhibits natural internal variability on longer timescales, and the most important and most familiar of those modes of natural internal variability in the climate system is the El Niño Southern Oscillation or ENSO.
 
@@ -266,18 +220,18 @@ tropical Pacific Ocean,
 
 And so this is an example of a coupled ocean atmosphere mode of variability you can't understand El Niño by just understanding the atmosphere. You can't understand the El Niño Southern Oscillation by understanding just the ocean. You have to understand how they interact with each other to yield this mode of variability, which tends to vary on timescales of three to seven years. 
 
-#### Complexity & unknown consequences
+### Complexity & unknown consequences
 
 So there are all sorts of phenomena that are a great interest and concern to us that are influenced by El Niño and if climate change changes El Niño it's going to impact these phenomena. We still don't know exactly what those impacts will be, and hence there is uncertainty in these regional impacts of climate change. But once again uncertainty isn't our friend because you can't plan for or adapt to changes that you don't know are coming.
 
-### 1.6 Other fundamental principles: Feedback mechanisms and the carbon cycle
+## 1.6 Other fundamental principles: Feedback mechanisms and the carbon cycle
 
 [video](https://courses.edx.org/courses/course-v1:SDGAcademyX+CCSI001+3T2019/courseware/5d206629b3e342ce8bbd943126e65c0f/0241d06be83e44c59fbec81416ad5766/?child=first)
 
 It discusses the different types of **radiative forcing**, **feedback mechanisms**, and the **carbon cycle** in relation to the climate system.
 
 
-#### radiative forcing
+### radiative forcing
 
 Some of the natural forces influencing climate change, for example:
 - volcanic eruptions emit what are known as aerosols, particles into the atmosphere that block some of the incoming sunlight and influence our climate
